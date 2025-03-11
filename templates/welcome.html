@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Welcome to AI Hiring Assistant</title>
+    <style>
+      body {
+        text-align: center;
+        font-family: Arial, sans-serif;
+        background-color: #f7f7f7;
+        margin: 0;
+        padding: 0;
+      }
+      .container {
+        margin-top: 50px;
+        padding: 20px;
+      }
+      img {
+        max-width: 300px;
+      }
+      h1 {
+        color: #333;
+        font-size: 2.5em;
+      }
+      p {
+        font-size: 1.2em;
+        color: #555;
+      }
+      .button {
+        display: inline-block;
+        padding: 12px 24px;
+        margin-top: 20px;
+        background-color: #007bff;
+        color: white;
+        border: none;
+        border-radius: 5px;
+        text-decoration: none;
+        font-size: 1.2em;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <img
+        src="{{ url_for('static', filename='robot.png') }}"
+        alt="Cartoon Robot"
+      />
+      <h1>Hello, Welcome!</h1>
+      <p>
+        I am your AI Hiring Assistant, here to help you pick the best candidate
+        for jobs.
+      </p>
+      <a href="/home" class="button">Begin</a>
+    </div>
+  </body>
+</html>

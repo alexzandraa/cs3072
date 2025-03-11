@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>{{ stage_title }}</title>
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        background-color: #f7f7f7;
+        margin: 40px;
+      }
+      .container {
+        max-width: 800px;
+        margin: auto;
+      }
+      h1 {
+        color: #333;
+      }
+      h3 {
+        color: #555;
+      }
+      p {
+        font-size: 1.1em;
+        line-height: 1.6;
+      }
+      a {
+        text-decoration: none;
+        color: #007bff;
+        font-size: 1.1em;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <h1>{{ stage_title }}</h1>
+      <h3>Objective</h3>
+      <p>{{ objective }}</p>
+      <h3>Research Question</h3>
+      <p>{{ research_question }}</p>
+      <h3>Purpose</h3>
+      <p>{{ purpose }}</p>
+      <br />
+      <a href="/home">Back to Home</a>
+    </div>
+  </body>
+</html>

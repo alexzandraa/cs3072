@@ -1,0 +1,19 @@
+Sex,Occupation,Population_Estimate,Percentage_within_Sex,Percentage_within_Occupation
+Female,1137 Information technology directors,19325,0.1,17.2
+Female,2131 IT project managers,12115,0.1,34.3
+Female,2132 IT managers,36125,0.3,24.7
+Female,"2133 IT business analysts, architects and systems designers",23825,0.2,21.7
+Female,2134 Programmers and software development professionals,41620,0.3,15.8
+Female,2135 Cyber security professionals,3740,0.0,17.7
+Female,2136 IT quality and testing professionals,6230,0.0,35.6
+Female,2137 IT network professionals,1280,0.0,7.7
+Female,2139 Information technology professionals n.e.c.,16165,0.1,20.2
+Male,1137 Information technology directors,93115,0.6,82.8
+Male,2131 IT project managers,23190,0.2,65.7
+Male,2132 IT managers,110290,0.8,75.3
+Male,"2133 IT business analysts, architects and systems designers",85745,0.6,78.3
+Male,2134 Programmers and software development professionals,222450,1.5,84.2
+Male,2135 Cyber security professionals,17365,0.1,82.3
+Male,2136 IT quality and testing professionals,11275,0.1,64.4
+Male,2137 IT network professionals,15400,0.1,92.3
+Male,2139 Information technology professionals n.e.c.,63850,0.4,79.8
