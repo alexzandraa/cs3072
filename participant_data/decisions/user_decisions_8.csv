@@ -1,0 +1,17 @@
+timestamp,stage,candidate_index,Gender,Experience,Test_Score,Interview_Score,decision
+1743445842.4825392,Stage 1,1,Male,6,50,7,Accept & Trust
+1743445858.7027605,Stage 1,2,Female,6,50,7,Reject & Distrust
+1743445867.3193674,Stage 1,3,Male,8,90,9,Accept & Trust
+1743445877.1003246,Stage 1,4,Female,8,90,9,Accept & Trust
+1743445932.1927617,Stage 2,1,Male,6,50,7,Reject & Distrust
+1743445949.095042,Stage 2,2,Female,6,50,7,Accept & Trust
+1743445964.0814693,Stage 2,3,Male,8,90,9,Accept & Trust
+1743445982.3554852,Stage 2,4,Female,8,90,9,Accept & Trust
+1743445999.5132093,Stage 3,1,Male,6,50,7,Accept & Trust
+1743446011.5925574,Stage 3,2,Female,6,50,7,Accept & Trust
+1743446021.7945738,Stage 3,3,Male,8,90,9,Accept & Trust
+1743446030.388345,Stage 3,4,Female,8,90,9,Accept & Trust
+1743446049.697785,Stage 4,1,Male,6,50,7,Accept & Trust
+1743446063.1665037,Stage 4,2,Female,6,50,7,Accept & Trust
+1743446079.8245986,Stage 4,3,Male,8,90,9,Accept & Trust
+1743446101.7390866,Stage 4,4,Female,8,90,9,Accept & Trust

@@ -1,0 +1,3 @@
+timestamp,stage,candidate_index,Gender,Experience,Test_Score,Interview_Score,decision
+1743445772.2710814,Stage 1,1,Male,6,50,7,Reject & Distrust
+1743446370.4357522,Stage 1,1,Male,6,50,7,Accept & Trust
